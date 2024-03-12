@@ -68,7 +68,7 @@ const { y: scroll } = useWindowScroll();
           <div i-material-symbols-bottom-navigation-outline class="md:hidden" />
         </RouterLink>
         <a
-          href="https://m.ziliao88.top/"
+          href="https://link3.cc/iosyyds"
           target="_blank"
           :title="$t('nav.Blog', 'Blog')"
         >
