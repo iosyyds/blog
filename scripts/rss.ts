@@ -6,10 +6,10 @@ import matter from "gray-matter";
 import MarkdownIt from "markdown-it";
 import { dirname } from "node:path";
 
-const DOMAIN = "https://mr90.top/";
+const DOMAIN = "https://link3.cc/iosyyds";
 const AUTHOR = {
-  name: "Ryan Co",
-  email: "iui9@qq.com",
+  name: "甜甜",
+  email: "nbios@qq.com",
   link: DOMAIN,
 };
 const markdown = MarkdownIt({
@@ -26,11 +26,11 @@ async function buildBlogRSS() {
   const files = await fg("pages/posts/*.md");
 
   const options = {
-    title: "Ryan Co",
-    description: "Ryan Co' Blog",
+    title: "甜甜",
+    description: "甜甜' Blog",
     id: DOMAIN,
     link: DOMAIN,
-    copyright: "CC BY-NC-SA 4.0 2021 © Ryan Co",
+    copyright: "CC BY-NC-SA 4.0 2024 © 甜甜",
     feedLinks: {
       json: `${DOMAIN}feed.json`,
       atom: `${DOMAIN}feed.atom`,
