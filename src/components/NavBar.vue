@@ -84,7 +84,7 @@ const { y: scroll } = useWindowScroll();
           <div i-ri-screenshot-line class="md:hidden" />
         </RouterLink>
         <a
-          href="https://twitter.com/ryanoaco"
+          href="https://link3.cc/iosyyds"
           target="_blank"
           title="Twitter"
           class="lt-md:hidden"
@@ -92,7 +92,7 @@ const { y: scroll } = useWindowScroll();
           <div i-ri-twitter-x-fill />
         </a>
         <a
-          href="https://github.com/rr210"
+          href="https://link3.cc/iosyyds"
           target="_blank"
           title="GitHub"
           class="lt-md:hidden"
