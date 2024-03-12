@@ -7,4 +7,5 @@ export default {
   "tabs.libraries": "库",
   "tabs.tools": "工具",
   "tabs.used": "最近使用",
+  "tabs.issues": "如果你有任何额外的导航站点需要添加，请提",
 };
