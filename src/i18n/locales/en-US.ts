@@ -7,6 +7,4 @@ export default {
   "tabs.libraries": "Libraries",
   "tabs.tools": "Tools",
   "tabs.used": "Recently Used",
-  "tabs.issues":
-    "If you have any additional navigation sites to add, please raise an",
 };
