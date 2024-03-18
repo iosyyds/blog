@@ -6,7 +6,7 @@ plum: true
 ---
 
 <Company
-title="Tiantian iOS Navigation"
+title="甜甜iOS导航"
 link="https://iosyyds.net/"
 imageSrc="https://gw.alipayobjects.com/os/q/cms/images/liimnli4/de983eb5-3913-4689-b445-82728a5bfbe6_w216_h178.png"
 timeRange="March 2024 - Present" />
