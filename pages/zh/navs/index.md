@@ -5,7 +5,7 @@ description: 前端导航包括常用的前端第三方网站、前端知识以�
 plum: true
 isHidenTitle: true
 projects:
-  时间处理:
+  甜甜网站:
     - name: '甜甜iOS导航'
       link: 'https://iosyyds.net/'
       image: 'https://iosyyds.net/wp-content/uploads/2023/09/logo2-01.png'
