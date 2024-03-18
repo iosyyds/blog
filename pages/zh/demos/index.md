@@ -5,9 +5,9 @@ plum: true
 display: 演示
 demos:
   2024:
-    - name: '个人主页'
+    - name: '甜甜iOS导航'
       link: 'https://github.com/rr210/harry.me'
-      desc: '我的个人网站包括个人简介、各种第三方平台链接、前端通用知识整理、博客文章、项目介绍以及演示展示。'
+      desc: '甜甜iOS导航，苹果用户的专属导航 ，iOS资源网盘等等更多~'
       img: '/demos/page-dark.png'
       readme: 'https://github.com/rr210/harry.me/blob/master/README.md'
       tags: ['Vue3','Markdown','UnoCSS']
