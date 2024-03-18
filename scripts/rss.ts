@@ -6,7 +6,7 @@ import matter from "gray-matter";
 import MarkdownIt from "markdown-it";
 import { dirname } from "node:path";
 
-const DOMAIN = "https://mr90.top/";
+const DOMAIN = "https://link3.cc/iosyyds";
 const AUTHOR = {
   name: "Ryan Co",
   email: "iui9@qq.com",

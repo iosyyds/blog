@@ -6,7 +6,7 @@ const lang = useStorage("lang", "en-US");
 const i18n = createI18n({
   legacy: false,
   locale: lang.value, // 默认语言
-  fallbackLocale: "en-US",
+  fallbackLocale: "zh-CN",
   messages,
 });
 

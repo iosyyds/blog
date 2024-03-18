@@ -7,11 +7,11 @@
         style="color: inherit"
         >CC BY-NC-SA 4.0</a
       >
-      2021-PRESENT © Ryan Co
+      2021-PRESENT © Tiantian
       <a
         class="hidden md:inline-block"
         target="_blank"
-        href="https://github.com/antfu"
+        href="https://link3.cc/iosyyds"
         style="color: inherit"
         >(source)</a
       ></span
