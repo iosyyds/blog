@@ -8,7 +8,7 @@ plum: true
 <Company
 title="甜甜iOS导航"
 link="https://iosyyds.net/"
-imageSrc="https://gw.alipayobjects.com/os/q/cms/images/liimnli4/de983eb5-3913-4689-b445-82728a5bfbe6_w216_h178.png"
+imageSrc="https://iosyyds.net/wp-content/uploads/2023/09/logo2-01.png"
 timeRange="3月 2024 - 至今" />
 
 中文页不定时更新，英文页不更新！
