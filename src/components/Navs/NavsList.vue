@@ -116,7 +116,7 @@ const handleNav = (obj: Project) => {
           href="https://pica.zhimg.com/80/v2-b85e2bca5084fd766648d4cf6ced9c68_720w.jpeg"
           target="_blank"
         >
-          <i i-codicon-issues align-mid text-xs></i>issue.</a
+          <i i-codicon-issues align-mid text-xs></i>NBIOSS</a
         >
       </div>
     </div>
