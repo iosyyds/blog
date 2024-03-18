@@ -1,4 +1,4 @@
-**[7i2k](https://7i2k.netlify.app/)**
+**[ryanco.me](https://mr90.top)**
 
 my personal website
 
@@ -10,5 +10,5 @@ my personal website
 <br>
 
 <div style='font-size: 14px'>
-Refer to the boss template：<a href='https://7i2k.netlify.app'>antfu.me</a>
+Refer to the boss template：<a href='https://github.com/antfu/antfu.me'>antfu.me</a>
 </div>

@@ -68,7 +68,7 @@ const { y: scroll } = useWindowScroll();
           <div i-material-symbols-bottom-navigation-outline class="md:hidden" />
         </RouterLink>
         <a
-          href="https://link3.cc/iosyyds"
+          href="https://m.ziliao88.top/"
           target="_blank"
           :title="$t('nav.Blog', 'Blog')"
         >
@@ -83,30 +83,34 @@ const { y: scroll } = useWindowScroll();
           <span class="lt-md:hidden">{{ $t("nav.Demos", "Demos") }}</span>
           <div i-ri-screenshot-line class="md:hidden" />
         </RouterLink>
-        <a
-          href="https://link3.cc/iosyyds"
+        <!-- <a
+          href="https://twitter.com/ryanoaco"
           target="_blank"
           title="Twitter"
           class="lt-md:hidden"
         >
           <div i-ri-twitter-x-fill />
-        </a>
+        </a> -->
         <a
-          href="https://link3.cc/iosyyds"
+          href="https://github.com/rr210"
           target="_blank"
           title="GitHub"
           class="lt-md:hidden"
         >
           <div i-uil-github-alt />
         </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
+        <!-- <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
           <div
             i-la-rss-square
             style="font-size: 1.25rem; margin: 0 -0.125rem"
           />
-        </a>
+        </a> -->
         <a class="flex items-center" href="javascript:void(0)">
-          <div @click="handleLangChange" :class="langIcon"></div>
+          <div
+            @click="handleLangChange"
+            :class="langIcon"
+            v-tooltip="$t('lang.change', 'English To Chinese')"
+          ></div>
         </a>
         <ToggleTheme />
       </div>

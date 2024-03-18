@@ -2,11 +2,11 @@
 import { createI18n } from "vue-i18n";
 import { messages } from "./locales";
 
-const lang = useStorage("lang", "zh-CN");
+const lang = useStorage("lang", "en-US");
 const i18n = createI18n({
   legacy: false,
   locale: lang.value, // 默认语言
-  fallbackLocale: "zh-CN",
+  fallbackLocale: "en-US",
   messages,
 });
 

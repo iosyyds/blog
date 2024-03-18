@@ -7,8 +7,12 @@
         style="color: inherit"
         >CC BY-NC-SA 4.0</a
       >
-      2021-PRESENT © 甜甜
-      <a target="_blank" href="https://link3.cc/iosyyds" style="color: inherit"
+      2021-PRESENT © Ryan Co
+      <a
+        class="hidden md:inline-block"
+        target="_blank"
+        href="https://github.com/antfu"
+        style="color: inherit"
         >(source)</a
       ></span
     >

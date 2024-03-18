@@ -13,6 +13,18 @@ const props = defineProps<{ projects: Record<string, any[]> }>();
 const usedNavs = useStorage<Project[]>("used-navs", []);
 const { t } = useI18n();
 
+const el = ref<HTMLElement | null>(null);
+// 使用 useStorage 保存坐标位置
+const tocPosition = useStorage("draggablePosition", { x: 18, y: 130 });
+const { style, x, y } = useDraggable(el, {
+  initialValue: { x: tocPosition.value.x, y: tocPosition.value.y },
+});
+
+watch([x, y], ([newX, newY]) => {
+  tocPosition.value.x = newX;
+  tocPosition.value.y = newY;
+});
+
 function slug(name: string) {
   return name.toLowerCase().replace(/[\s\\\/]+/g, "-");
 }
@@ -53,7 +65,7 @@ const handleNav = (obj: Project) => {
 </script>
 
 <template>
-  <div class="max-w-300 mx-auto">
+  <div class="max-w-300 at-lg:max-w-212 mx-auto">
     <div
       v-for="(key, cidx) in Object.keys(pros)"
       :key="slug(key)"
@@ -76,9 +88,14 @@ const handleNav = (obj: Project) => {
       </ul>
     </div>
     <div>
-      <div class="table-of-contents">
+      <div
+        class="table-of-contents"
+        ref="el"
+        :style="style"
+        style="position: fixed"
+      >
         <div class="table-of-contents-anchor">
-          <div class="i-ri-menu-2-fill" />
+          <div class="i-ri-menu-2-fill cursor-move" />
         </div>
         <ul>
           <li v-for="key of Object.keys(pros)" :key="key">
@@ -87,7 +104,7 @@ const handleNav = (obj: Project) => {
         </ul>
       </div>
       <hr />
-      <div>
+      <div class="slide-enter animate-delay-800!">
         {{
           $t(
             "tabs.issues",
@@ -96,7 +113,7 @@ const handleNav = (obj: Project) => {
         }}
         <a
           class="border-b border-slate-300"
-          href="https://link3.cc/iosyyds"
+          href="https://github.com/rr210/harry.me/issues/new?assignees=&labels=add-sites&projects=&template=%E6%B7%BB%E5%8A%A0%E7%AB%99%E7%82%B9-add-sites.md&title=Add+Sites"
           target="_blank"
         >
           <i i-codicon-issues align-mid text-xs></i>issue.</a

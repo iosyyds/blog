@@ -86,6 +86,11 @@ button:focus-visible {
   background: #fff;
 }
 
+#nprogress .peg {
+  background: #888;
+  box-shadow: 0 0 10px #888, 0 0 5px #888;
+}
+
 @keyframes slide-enter {
   0% {
     transform: translateY(10px);
@@ -246,4 +251,8 @@ button:focus-visible {
 html {
   scrollbar-width: thin;
   scrollbar-color: rgba(121, 119, 119, 0.5) #f1f1f1;
+}
+
+.v-popper__inner {
+  font-size: .80rem !important;
 }

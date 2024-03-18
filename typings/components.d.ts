@@ -8,10 +8,10 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     Company: typeof import('./../src/components/Projects/Company.vue')['default']
-    copy: (typeof import("./../src/components/Demos/T1Card copy.vue"))["default"]
     Demos: typeof import('./../src/components/Demos/index.vue')['default']
     Footer: typeof import('./../src/components/Footer.vue')['default']
     Logo: typeof import('./../src/components/Logo.vue')['default']
+    ModalCard: typeof import('./../src/components/Demos/ModalCard.vue')['default']
     NavBar: typeof import('./../src/components/NavBar.vue')['default']
     NavItem: typeof import('./../src/components/Navs/NavItem.vue')['default']
     NavsList: typeof import('./../src/components/Navs/NavsList.vue')['default']
@@ -27,6 +27,7 @@ declare module 'vue' {
     T6Card: typeof import('./../src/components/Demos/T6Card.vue')['default']
     TechStack: typeof import('./../src/components/TechStack.vue')['default']
     ToggleTheme: typeof import('./../src/components/ToggleTheme.vue')['default']
+    WordYear: typeof import('./../src/components/WordYear.vue')['default']
     WrapPost: typeof import('./../src/components/WrapPost.vue')['default']
   }
 }
