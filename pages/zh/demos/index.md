@@ -6,11 +6,11 @@ display: 演示
 demos:
   2024:
     - name: '甜甜iOS导航'
-      link: 'https://github.com/rr210/harry.me'
+      link: 'https://iosyyds.net/'
       desc: '甜甜iOS导航，苹果用户的专属导航 ，iOS资源网盘等等更多~'
       img: '/demos/page-dark.png'
-      readme: 'https://github.com/rr210/harry.me/blob/master/README.md'
-      tags: ['Vue3','Markdown','UnoCSS']
+      readme: 'https://iosyyds.net/'
+      tags: ['PHP','WordPress','ThinkPHP']
   2023:
     - name: 'tv-data-ana'
       link: 'https://github.com/rr210/tv-data-ana'
