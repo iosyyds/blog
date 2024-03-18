@@ -9,7 +9,7 @@ plum: true
 title="甜甜iOS导航"
 link="https://iosyyds.net/"
 imageSrc="https://gw.alipayobjects.com/os/q/cms/images/liimnli4/de983eb5-3913-4689-b445-82728a5bfbe6_w216_h178.png"
-timeRange="March 2024 - Present" />
+timeRange="3月 2024 - 至今" />
 
 中文页不定时更新，英文页不更新！
 
@@ -30,13 +30,13 @@ https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=3fb7dda727791a454
 **免费正版小火箭**：
 https://iosyyds.github.io/shadowrocket/
 
-**【主要推荐】机场性价比高，速度快**：
+**【主推】机场性价比高，速度快**：
 https://xftld.org/index.php#/register?code=W4oKCNPz
 
-**【综合】机场便宜一元钱**：
+**【一般】机场便宜一元钱**：
 https://xn--4gq62f52gdss.com/#/register?code=Xm52PnP0
 
-**【更改抖音消息区域、更改首页IP】**：
+**【推荐】更改抖音地区、更改首页IP**：
 https://xn--yfrr86jl0e6wq.com/#/register?code=P3HQ2CgY
 
 <hr/>
