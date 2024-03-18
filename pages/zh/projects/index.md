@@ -1,7 +1,7 @@
 ---
 title: Node - Tiantian
-display: permanently free, node, account
-description: Project list, work experience accumulation, front-end development experience sharing
+display: 永久免费，节点，账户
+description: 一个纯公益免费节点分享网站，提供免费节点订阅链接，服务覆盖SSR/V2ray//Vmess/Clash等主流协议，支持Trojan/v2ray/Clash/Shadowrocket/Quantumult等主流客户端
 plum: true
 ---
 
@@ -11,9 +11,9 @@ link="https://iosyyds.net/"
 imageSrc="https://gw.alipayobjects.com/os/q/cms/images/liimnli4/de983eb5-3913-4689-b445-82728a5bfbe6_w216_h178.png"
 timeRange="March 2024 - Present" />
 
-The English page is not updated!
+中文页不定时更新，英文页不更新！
 
-#### Technology stack
+#### 技术栈
 
 <TechStack :techStack='[
    {icon:"i-ion-logo-react",name:"React"},
@@ -22,21 +22,21 @@ The English page is not updated!
    {icon:"i-devicon-plain-playwright",name:"Playwright"},
 ]'/>
 
-#### Airport recommendations
+#### 机场推荐
 
-**Free node subscription address**:
+**免费节点订阅地址**：
 https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=3fb7dda727791a4543b321fd6859d6ae
 
-**Free genuine Little Rocket**:
+**免费正版小火箭**：
 https://iosyyds.github.io/shadowrocket/
 
-**[Main recommendation] The airport is cost-effective and fast**:
+**【主要推荐】机场性价比高，速度快**：
 https://xftld.org/index.php#/register?code=W4oKCNPz
 
-**【General】One yuan is cheap at the airport**:
+**【综合】机场便宜一元钱**：
 https://xn--4gq62f52gdss.com/#/register?code=Xm52PnP0
 
-**[Change region for Douyin messages, change IP for homepage]**:
+**【更改抖音消息区域、更改首页IP】**：
 https://xn--yfrr86jl0e6wq.com/#/register?code=P3HQ2CgY
 
 <hr/>
