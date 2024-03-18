@@ -8,6 +8,6 @@ export default {
   "tabs.tools": "Tools",
   "tabs.used": "Recently Used",
   "tabs.issues":
-    "If you have any additional navigation sites to add, please raise an",
+    "If you have any additional navigation sites to add, add them on WeChat",
   "lang.change": "English To Chinese",
 };
