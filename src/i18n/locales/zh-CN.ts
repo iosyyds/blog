@@ -7,6 +7,6 @@ export default {
   "tabs.libraries": "库",
   "tabs.tools": "工具",
   "tabs.used": "最近使用",
-  "tabs.issues": "的导航站点需要添加，请提",
+  "tabs.issues": "要添加，请提",
   "lang.change": "Chinese To English",
 };

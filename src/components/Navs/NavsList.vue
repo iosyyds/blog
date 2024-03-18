@@ -113,7 +113,7 @@ const handleNav = (obj: Project) => {
         }}
         <a
           class="border-b border-slate-300"
-          href="https://github.com/rr210/harry.me/issues/new?assignees=&labels=add-sites&projects=&template=%E6%B7%BB%E5%8A%A0%E7%AB%99%E7%82%B9-add-sites.md&title=Add+Sites"
+          href="https://pica.zhimg.com/80/v2-b85e2bca5084fd766648d4cf6ced9c68_720w.jpeg"
           target="_blank"
         >
           <i i-codicon-issues align-mid text-xs></i>issue.</a
