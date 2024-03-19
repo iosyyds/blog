@@ -13,7 +13,7 @@ timeRange="3月 2024 - 至今" />
 
 中文页不定时更新，英文页不更新！
 
-#### 技术栈
+#### 关键词
 
 <TechStack :techStack='[
    {icon:"i-ion-logo-react",name:"免费"},
