@@ -1,6 +1,6 @@
 ---
 title: Node - Tiantian
-display: 永久免费，节点，账户
+display: 永久免费/节点/小火箭/美区ID
 description: 一个纯公益免费节点分享网站，提供免费节点订阅链接，服务覆盖SSR/V2ray//Vmess/Clash等主流协议，支持Trojan/v2ray/Clash/Shadowrocket/Quantumult等主流客户端
 plum: true
 ---
@@ -16,10 +16,10 @@ timeRange="3月 2024 - 至今" />
 #### 技术栈
 
 <TechStack :techStack='[
-   {icon:"i-ion-logo-react",name:"React"},
-   {icon:"i-ph-file-ts-light",name:"TypeScript"},
-   {icon:"i-material-symbols-light-humidity-mid",name:"Umi"},
-   {icon:"i-devicon-plain-playwright",name:"Playwright"},
+   {icon:"i-ion-logo-react",name:"免费"},
+   {icon:"i-ph-file-ts-light",name:"公益"},
+   {icon:"i-material-symbols-light-humidity-mid",name:"小火箭"},
+   {icon:"i-devicon-plain-playwright",name:"节点"},
 ]'/>
 
 #### 机场推荐
